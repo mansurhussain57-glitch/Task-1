@@ -1,1 +1,1 @@
-# Task-1
+Cybersecurity is about protecting data and systems using the principles of confidentiality, integrity, and availability. Different attackers have different skills and motivations, from beginners to nation-state actors. Modern applications expose multiple attack surfaces such as web apps, APIs, mobile apps, and cloud infrastructure. By understanding how data flows from users to databases, we can identify where attacks are most likely to occur.
